@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/geemde/mediapipe-js#readme",
   "dependencies": {
-    "@mediapipe/drawing_utils": "^0.3.1620248257"
+    "@mediapipe/camera_utils": "^0.3.1640029074",
+    "@mediapipe/control_utils": "^0.6.1629159505",
+    "@mediapipe/drawing_utils": "^0.3.1620248257",
+    "@mediapipe/holistic": "^0.5.1635989137"
   }
 }
