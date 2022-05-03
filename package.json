@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geemde/mediapipe-js/issues"
   },
-  "homepage": "https://github.com/geemde/mediapipe-js#readme"
+  "homepage": "https://github.com/geemde/mediapipe-js#readme",
+  "dependencies": {
+    "@mediapipe/drawing_utils": "^0.3.1620248257"
+  }
 }
